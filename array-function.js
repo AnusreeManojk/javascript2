@@ -160,5 +160,3 @@ var value =arr4.reduce((total,item)=>{
 })
 console.log(value)
    
-       
-  
